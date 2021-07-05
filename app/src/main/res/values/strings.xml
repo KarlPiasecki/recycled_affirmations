@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recycled Affirmations</string>
+    <string name="affirmation1">you are wonderful today</string>
+    <string name="affirmation2">you are great today</string>
+    <string name="affirmation3">thoughts and feelings</string>
+    <string name="affirmation4">positive affirmation</string>
+    <string name="affirmation5">good and wonderful</string>
+    <string name="affirmation6">wow</string>
+    <string name="affirmation7">you are wonderful</string>
+    <string name="affirmation8">you are great</string>
+    <string name="affirmation9">affirmation 9</string>
+    <string name="affirmation10">affirmation 10</string>
+</resources>
